@@ -31,6 +31,15 @@ body.active{
     display: inline-block;
     margin: 0}.no-js 
 
+#experience-timeline > div a:hover {
+    text-decoration: underline;
+}
+
+#experience-timeline > div a{
+    color: #374054;
+}
+
+
 #experience-timeline > div h4{
     font-size: 1.2em;
     font-weight: 300;
@@ -52,6 +61,8 @@ body.active{
     margin: 0;
     padding-left: 1em;
 }
+
+
 /* 
 #education-block > div h4{
     margin-top: 0;
